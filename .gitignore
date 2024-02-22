@@ -1,0 +1,37 @@
+# Fichiers système
+.DS_Store
+
+# Environnement virtuel (si vous utilisez virtualenv ou venv)
+venv/
+.env/
+
+# Fichiers de compilation
+*.pyc
+*.pyo
+__pycache__/
+
+# Dossiers de build
+build/
+dist/
+*.egg-info/
+
+# Logs et fichiers temporaires
+*.log
+*.cache
+*.swp
+
+# Fichiers de configuration locaux
+*.ini
+*.cfg
+
+# Fichiers de sauvegarde
+*~
+*.bak
+
+# Dossiers spécifiques à certains IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers générés par Jupyter Notebooks
+.ipynb_checkpoints/
